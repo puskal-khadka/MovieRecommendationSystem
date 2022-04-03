@@ -1,0 +1,11 @@
+#this library are required if you are directly running your recommending fucntion 
+#but i dump data in pkl file so this library are not used 
+pandas==1.1.5
+nltk==3.4.5
+scikit-learn==0.24.1
+
+
+##this are compulsory library
+requests==2.27.1
+gunicorn==20.1.0
+django-heroku
